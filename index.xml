@@ -5,15 +5,23 @@
     <link>https://zhiyuangao.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Sun, 30 Jul 2023 18:21:26 +0800</lastBuildDate><atom:link href="https://zhiyuangao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://zhiyuangao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://zhiyuangao.github.io/post/blog/</link>
-      <pubDate>Sun, 30 Jul 2023 18:21:26 +0800</pubDate>
+      <title></title>
+      <link>https://zhiyuangao.github.io/news/posts/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuangao.github.io/post/blog/</guid>
-      <description>The team consists of 1 senior engineer at the professor level, 1 professor, 2 associate professors, 1 lecturer, 2 engineers, as well as multiple postdoctoral researchers and graduate students. It is a research group that combines marine observation, equipment development, and mechanism research, with complementary advantages in multiple fields. This enables a close integration of scientific demands and technological research and development. As a core force within the &amp;ldquo;Ocean Dynamics and Climate&amp;rdquo; innovation team led by Academician Wu Lixin, our team is dedicated to the implementation of the &amp;ldquo;Transparent Ocean&amp;rdquo; observation plan.</description>
+      <guid>https://zhiyuangao.github.io/news/posts/blog/</guid>
+      <description>XXXXXX published!  xxx xxxx xxxx  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhiyuangao.github.io/news/posts/blog1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyuangao.github.io/news/posts/blog1/</guid>
+      <description>XXXXXX published!  xxx xxxx xxxx  </description>
     </item>
     
   </channel>
