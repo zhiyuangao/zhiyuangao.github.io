@@ -2,8 +2,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
       <loc>https://zhiyuangao.github.io/</loc>
-      <lastmod>2023-07-30T22:30:21+08:00</lastmod>
+      <lastmod>2023-07-31T00:19:48+08:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+    <url>
+      <loc>https://zhiyuangao.github.io/research/news0/</loc>
+      <lastmod>2023-07-31T00:19:48+08:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://zhiyuangao.github.io/research/news/</loc>
+      <lastmod>2023-07-31T00:19:48+08:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://zhiyuangao.github.io/research/</loc>
+      <lastmod>2023-07-31T00:19:48+08:00</lastmod>
     </url>
     
     <url>
@@ -17,12 +32,12 @@
     </url>
     
     <url>
-      <loc>https://zhiyuangao.github.io/blogs/</loc>
+      <loc>https://zhiyuangao.github.io/blog/</loc>
       <lastmod>2023-07-30T22:16:18+08:00</lastmod>
     </url>
     
     <url>
-      <loc>https://zhiyuangao.github.io/blogs/new_blog/</loc>
+      <loc>https://zhiyuangao.github.io/blog/new_blog/</loc>
       <lastmod>2023-07-30T22:16:18+08:00</lastmod>
     </url>
     
@@ -33,11 +48,6 @@
     
     <url>
       <loc>https://zhiyuangao.github.io/publications/</loc>
-      <priority>0</priority>
-    </url>
-    
-    <url>
-      <loc>https://zhiyuangao.github.io/research/</loc>
       <priority>0</priority>
     </url>
     
