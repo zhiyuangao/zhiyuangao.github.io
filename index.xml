@@ -6,7 +6,16 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jul 2023 22:16:18 +0800</lastBuildDate><atom:link href="https://zhiyuangao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 22:30:21 +0800</lastBuildDate><atom:link href="https://zhiyuangao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://zhiyuangao.github.io/news/news/</link>
+      <pubDate>Sun, 30 Jul 2023 22:30:21 +0800</pubDate>
+      
+      <guid>https://zhiyuangao.github.io/news/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>How to write a qualified paper</title>
       <link>https://zhiyuangao.github.io/blogs/new_blog/</link>
@@ -14,24 +23,6 @@
       
       <guid>https://zhiyuangao.github.io/blogs/new_blog/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zhiyuangao.github.io/news/posts/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhiyuangao.github.io/news/posts/blog/</guid>
-      <description>XXXXXX published!  xxx xxxx xxxx  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zhiyuangao.github.io/news/posts/blog1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhiyuangao.github.io/news/posts/blog1/</guid>
-      <description>XXXXXX published!  xxx xxxx xxxx  </description>
     </item>
     
   </channel>
