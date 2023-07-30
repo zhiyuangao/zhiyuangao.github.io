@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo DPSG</title>
+    <link>https://zhiyuangao.github.io/</link>
+    <description>Recent content on Hugo DPSG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://zhiyuangao.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
