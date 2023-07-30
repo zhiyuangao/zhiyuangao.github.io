@@ -1,11 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://zhiyuangao.github.io/categories/</loc>
+      <loc>https://zhiyuangao.github.io/</loc>
+      <lastmod>2023-07-30T18:21:26+08:00</lastmod>
     </url>
     
     <url>
-      <loc>https://zhiyuangao.github.io/</loc>
+      <loc>https://zhiyuangao.github.io/post/blog/</loc>
+      <lastmod>2023-07-30T18:21:26+08:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://zhiyuangao.github.io/post/</loc>
+      <lastmod>2023-07-30T18:21:26+08:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://zhiyuangao.github.io/categories/</loc>
     </url>
     
     <url>
